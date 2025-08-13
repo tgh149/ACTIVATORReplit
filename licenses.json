@@ -1,0 +1,43 @@
+{
+  "1MONTH-C9D2F3E8F9B3": {
+    "plan_name": "1 Month Premium",
+    "duration_days": 30,
+    "is_used": true,
+    "activated_by_user_id": 6158106622,
+    "notes": "New 1-month key. Ready to be sold.",
+    "activation_date": "2025-08-12T15:23:34.615643+00:00",
+    "expiration_date": "2025-09-11T15:23:34.615759+00:00",
+    "bot_token": "8214572390:AAFDaJICbwdGCCpIuGR-ZFxSYzF48JyyKZc",
+    "admin_id": "6158106622",
+    "support_id": "6158106622",
+    "channel_id": "-1002606767266"
+  },
+  "3MONTH-539F64B2C5B6": {
+    "plan_name": "3 Month Premium",
+    "duration_days": 90,
+    "is_used": false,
+    "activated_by_user_id": null,
+    "notes": "New 3-month key. Ready to be sold."
+  },
+  "6MONTH-06F85388A4FA": {
+    "plan_name": "6 Month Premium",
+    "duration_days": 180,
+    "is_used": false,
+    "activated_by_user_id": null,
+    "notes": "New 6-month key. Ready to be sold."
+  },
+  "12MONTH-EBB9E2012E67": {
+    "plan_name": "1 Year VIP",
+    "duration_days": 365,
+    "is_used": false,
+    "activated_by_user_id": null,
+    "notes": "New 1-year key. Ready to be sold."
+  },
+  "LIFETIME-80FC4E4CB817": {
+    "plan_name": "Lifetime Access",
+    "duration_days": 36135,
+    "is_used": false,
+    "activated_by_user_id": null,
+    "notes": "New lifetime key. Ready to be sold."
+  }
+}
